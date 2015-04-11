@@ -1,4 +1,13 @@
 body {
-	background-color: gray;	 
-	color: white;
+	background-color: 255,255,255;	 
+	color: 0,0,0;
+	font-size: 22px;
+}
+h1 {
+	background-color: 0,0,0;
+	font-size: 36px;
+	 color: 255,255,255
+}
+#slogan{
+	text-decoration: italic
 }
