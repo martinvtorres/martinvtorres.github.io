@@ -3,6 +3,7 @@ body {
 	color: 0, 0,0;
 	font-size: 22px;
 	font-family: Helvetica, Sans-serif;	
+
 }
 h1 {
 	background-color: 0,0,0;
@@ -11,7 +12,8 @@ h1 {
 	font-family: Helvetica, Sans-serif;
 }
 #slogan{
-	text-decoration: italic
+font-style: italic;
+}
 }
 input {
       border: 0;
