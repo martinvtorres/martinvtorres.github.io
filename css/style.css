@@ -1,9 +1,6 @@
-head {
-	background-size: cover;
-
-}
 body {
-	background-color: 255,255,255;	 
+	background-color: 255,255,255 url(images/chinatownny.jpg);	
+	background-size: cover; 
 	color: 0,0,0;
 	font-size: 22px;
 	font-family: Helvetica, Sans-serif;
@@ -13,9 +10,8 @@ body {
 h1 {
 	background-color: 0,0,0;
 	font-size: 36px;
-	color: 255,255,255
+	color: 255,255,255;
 	font-family: Helvetica, Sans-serif;
-
 }
 #slogan{
 	text-decoration: italic
