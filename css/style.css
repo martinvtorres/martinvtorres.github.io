@@ -1,8 +1,8 @@
-	header {
-		text-align: center;
-		background: url("images/chinatownny.jpg");
-		background-size: cover;
-		color: 255, 255, 255;
+header {
+	text-align: center;
+	background: url("images/chinatownny.jpg");
+	background-size: cover;
+	color: 255, 255, 255;
 }
 body {
 
@@ -18,13 +18,16 @@ h1 {
 	font-family: Helvetica, Sans-serif;
 }
 #slogan{
-font-style: italic;
+	font-style: italic;
 }
 ul {
-        padding: 10px;
-        background: black;
+    padding: 10px;
+    background: black;
     }
 li {
-      display: inline;
-      padding: 0px 10px 0px 10px;
+    display: inline;
+    padding: 0px 10px 0px 10px;
     }
+a {
+	color: 255, 255, 255;
+}
