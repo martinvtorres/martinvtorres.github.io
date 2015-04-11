@@ -13,3 +13,11 @@ h1 {
 #slogan{
 	text-decoration: italic
 }
+ input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+       }
+input[type="submit"] {
+      background: red;
+      color: white;
