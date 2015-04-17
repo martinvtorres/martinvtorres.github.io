@@ -1,17 +1,19 @@
 header {
 	text-align: center;
-	color: 0, 0, 0;
+	color: rgb(0,0,0);
 }
 body {
 
-	color: 0, 0,0;
+	color: rgb(0,0,0);
 	font-size: 22px;
 	font-family: Helvetica, Sans-serif;	
+	margin: 0;
+	padding: 0;
+
 }
 h1 {
-	background-color: 0,0,0;
 	font-size: 70px;
-	color: 0,0,0;
+	color: rgb(0,0,0);
 	font-family: Helvetica, Sans-serif;
 }
 h5 {
@@ -21,8 +23,8 @@ h5 {
 }
 #slogan{
 	font-style: italic;
-	font-size: 18px
-	color: 0, 0, 0;
+	font-size: 18px;
+	color: rgb(0,0,0);
 }
 ul {
     padding: 10px;
@@ -40,4 +42,15 @@ img {
 	margin: 45px 0px 0px 0px;
 	border: 8px solid black;
 	border-radius: 20px
+}
+nav {
+	background-color: black;
+	text-align: right;
+	padding: 25px;
+
+}
+
+nav a {
+	text-decoration: none;
+	margin: 0 12px;	
 }
