@@ -50,8 +50,8 @@ nav a {
 }
 
 #splash {
-  background: url(images/202721_10151283932467976_1752614224_o.jpg) no-repeat;
-  background-image: url(martinvtorres.github.io/images/202721_10151283932467976_1752614224_o.jpg);
+  background-repeat: no-repeat;	
+  background-image: url(../images/202721_10151283932467976_1752614224_o.jpg);
   background-size: 100%;
   background-color: #f7f7f7;
   background-attachment: fixed;
