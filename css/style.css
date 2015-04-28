@@ -27,8 +27,8 @@ h5 {
 }
 #slogan{
 	font-style: italic;
-	font-size: 18px;
-	color: rgb(0,0,0);
+	font-size: 80px;
+	color: rgb(255,255,255);
 }
 a {
 	color: white;
@@ -51,7 +51,7 @@ nav a {
 
 #splash {
   background-repeat: no-repeat;	
-  background-image: url(../images/202721_10151283932467976_1752614224_o.jpg);
+  background-image: url(http://i-up.co.uk/i/img/80d519c1-0e03-4810-8047-f7f6e752b6e4/nike_run_crew_05_1080.jpg_I_R.jpg);
   background-size: 100%;
   background-color: #f7f7f7;
   background-attachment: fixed;
