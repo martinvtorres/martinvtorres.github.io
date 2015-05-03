@@ -1,4 +1,24 @@
+
 nav {
 	background: rgb(0,0,0);
 	text-align: left;
 }
+
+body{
+	background-image: url();
+}
+span{
+	background-color: black;
+	color: white;
+	font-size: 28px;
+	font: Helvetica;
+	font-family: sans-serif;
+}
+div{
+	background-color: rgba(0,0,0,.7);
+}
+#home{}
+#about{}
+#work{}
+#contact{}
+#hero{}
