@@ -14,11 +14,14 @@ span{
 	font: Helvetica;
 	font-family: sans-serif;
 }
-div{
-	background-color: rgba(0,0,0,.7);
+div{}
+#home{
+		background-color: rgba(0,0,0,.7);
 }
-#home{}
 #about{}
-#work{}
+#work{
+	padding: 2px;
+	margin: 2px;
+}
 #contact{}
 #hero{}
