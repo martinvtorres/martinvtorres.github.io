@@ -1,7 +1,19 @@
+header {
+	background-color: white;
+	padding: 25px;
+
+}
+header a {
+		color: black;
+	font-family: 'Helvetica', sans-serif;
+	text-decoration: none;
+	margin: 0 12px;	
+}
 
 nav {
-	background: rgb(255,255,255);
-	padding: 25px;
+	float: right;
+	/*background: rgb(255,255,255);*/
+	/*padding: 25px;*/
 	background-position: fixed;
 	text-align: right;	
 }
