@@ -4,7 +4,7 @@ header {
 
 }
 header a {
-		color: black;
+	color: black;
 	font-family: 'Helvetica', sans-serif;
 	text-decoration: none;
 	margin: 0 12px;	
@@ -43,7 +43,7 @@ img{
 
 #splash {
   background-repeat: no-repeat;	
-  background-image: url(https://lh6.googleusercontent.com/-66Tg94qbYZc/Ui-CURaOgKI/AAAAAAAA_Lk/mIj_hl-5Rs0/Amazing+Annimated+Gif+by+Lachlan+Burrows.gif);
+  background-image: url(http://www.dukymaru.com/Portfolio/Landscape/i-jdzGbhG/0/X2/Angeles%20Moonset-X2.jpg);
   background-size: 100%;
   background-color: #f7f7f7;
   background-attachment: fixed;
@@ -73,13 +73,6 @@ background-repeat: no-repeat;
 	margin: 12px;
 	
 }
-ul{
-	list-style: none;
-	margin: 0;
-	padding: 0;
-	clear:
-}
-#work{}
 
 #contactbackground{
   background-repeat: no-repeat;	
@@ -91,16 +84,59 @@ ul{
   padding: 400px 0 0 0;	
 }
 
+#wrapper {
+  width: 1160px;
+  margin: 0 auto;
+} 
+
+.portfolio-entry {
+  width: 200px;
+  float: left;
+  text-align: center;
+  margin-right: 16px;
+  margin-left: 16px;
+  margin-top: 16px;
+}
+
+.portfolio-entry p {
+  padding: 8px;
+}
+
+#contactwrapper{
+	width: 50%;
+}
+.contact-entry p{
+	width: 200px;
+	margin-right: 16px;
+	margin-bottom: 16px;
+	margin-top: 16px;
+	margin-left: 16px;
+	float: none;
+	font-family: Helvetica;
+}
+
+.contact-entry title{
+	font-family: Arial;
+	font-size: 24px;
+	text-decoration: underline;
+}
 
 footer{
 	text-align: right;
 	text-decoration: none;
 	padding: 25px;
-	background-position: fixed;
 }
+
 footer a{
 	color: black;
 	font-family: 'Helvetica', sans-serif;
 	text-decoration: none;
 	margin: 0 12px;	
+}
+
+footer img{
+	max-width: 35px;
+	max-height: 35px;
+	margin: 0;
+	padding: 0;
 }
