@@ -1,0 +1,100 @@
+header {
+	font-size: 24px;
+	text-align: center;
+	color: rgb(0,0,0);
+	background-attachment: fixed;
+
+}
+body {
+
+	color: rgb(0,0,0);
+	font-size: 1em;
+	font-family: Helvetica, Sans-serif;	
+	margin: 0;
+	padding: 0;
+
+}
+h1 {
+	font-size: 3em;
+	color: rgb(24,111,24);
+	font-family: 'Old Standard TT', serif;
+	text-align: center;
+}
+h5 {
+	font-size: 1em;
+	font-weight: normal;
+	text-align: center;
+	font-family: 'Abel', sans-serif;
+}
+#slogan{
+	font-style: italic;
+	font-size: 2.25em;
+	color: rgb(255,255,255);
+}
+a {
+	color: white;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+nav {
+	background-color: rgb(0,0,0);
+	text-align: right;
+	padding: 1em;
+}
+
+nav a {
+	font-family: 'Helvetica', sans-serif;
+	text-decoration: none;
+	margin: 0 1em;	
+}
+
+#splash {
+  background-repeat: no-repeat;	
+  background-image: url(http://i-up.co.uk/i/img/80d519c1-0e03-4810-8047-f7f6e752b6e4/nike_run_crew_05_1080.jpg_I_R.jpg);
+  background-size: 100%;
+  background-color: #f7f7f7;
+  background-attachment: fixed;
+  height: 95vh;
+  padding: 400px 0 0 0;
+}
+
+section{
+	text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+	h1, p {
+		font-size: 1.5em;
+		text-align: center; 
+	}
+	nav a {
+	font-family: 'Helvetica', sans-serif;
+	text-decoration: none;
+	margin: 0 1em;	
+	}
+	#slogan {
+	font-style: italic;
+	font-size: 1.5em;
+	color: rgb(255,255,255);
+	}
+	nav a {
+		display: block;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	h1, p {
+		font-size: 1em;
+		text-align: center; 
+	}
+	#slogan {
+	font-style: italic;
+	font-size: 1em;
+	color: rgb(255,255,255);
+}
+	nav a {
+		display: block;
+	}
+}
